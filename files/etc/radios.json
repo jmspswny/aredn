@@ -1027,9 +1027,17 @@
   },
   "0xe557": {
     "name": "Ubiquiti Unifi AC Mesh",
-    "maxpower": 20,
-    "pwroffset": 0,
-    "antenna": "external"
+    "wlan0": {
+		"maxpower": 20,
+		"pwroffset": 0,
+		"antenna": "external"
+	}
+    "wlan1": {
+		"maxpower": 20,
+		"pwroffset": 0,
+		"antenna": "external"
+	}
+		
   },
   "0xe5e5": {
     "name": "Ubiquiti PowerBeam M5 300-ISO",
