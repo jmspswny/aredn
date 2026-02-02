@@ -1352,6 +1352,22 @@
       "upgrade": [ 240, 720 ]
     }
   },
+  "cudy ap3000 outdoor v1": {
+    "name": "Cudy AP3000 Outdoor v1.0",
+    "wlan0": {
+      "exclude_bandwidths": [ 5, 10 ],
+      "exclude_modes": [ "mesh" ],
+      "maxpower": 27,
+      "antenna": "external"
+    },
+    "wlan1": {
+      "exclude_bandwidths": [ 5, 10 ],
+      "exclude_modes": [ "mesh" ],
+      "maxpower": 27,
+      "antenna": "external"
+    },
+    "features": [ "supernode", "videoproxy", "xlink" ]    
+  },
   "cudy tr1200 v1": {
     "name": "Cudy TR1200 v1.0"
   },

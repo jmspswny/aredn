@@ -169,7 +169,7 @@ Model | SKUs | Band | Target | Subtarget | Image | RAM | Stability | Status
 :------ | :----: | :----: | :------: | :---------: | :-----: | :---: | :---------: | :------
 Cudy TR1200 | Cudy TR1200 1.0 | 2 & 5 | ramips | mt76x8 | cudy_tr1200 | 128MB | supported | released
 Cudy TR3000 | Cudy TR3000 1.0 | 2 & 5 | mediatek | filogic | cudy_tr3000-v1 | 512MB | supported | released
-
+Cudy AP3000 Outdoor | Cudy AP3000Outdoor 1.0 | 2 & 5 | mediatek | filogic | cudy_ap3000outdoor-v1 | 512MB | supported | released
 ## Meraki
 Model | SKUs | Band | Target | Subtarget | Image | RAM | Stability | Status
 :------ | :----: | :----: | :------: | :---------: | :-----: | :---: | :---------: | :------
